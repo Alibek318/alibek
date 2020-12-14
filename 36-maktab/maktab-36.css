@@ -1,0 +1,49 @@
+ body{
+     background-image: url(foto1.jpg);
+     margin: 30px;
+
+ }
+#box-1{
+    background-color: #35424a;
+    text-align: center;
+}
+.navbar a{
+    width: 100%;
+    margin: 10px;
+    padding:10px;
+    
+    
+    
+}
+.navbar {
+    border: 2px solid blue;
+    background-color: black;
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    padding: 10px;
+
+}
+a{
+    color:white;
+    padding: 20px;
+    margin: 20px;
+    height: 10px;
+}
+.foto{
+ 
+ width: 600px;
+ height: 400px;
+ margin: 120px;
+ padding: 100px;
+}
+p{
+    text-align: center;
+}
+
+.foto2{
+    text-align: center;
+}
+
+
+
